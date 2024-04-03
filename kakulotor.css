@@ -57,3 +57,7 @@ form .display input{
 form input.equal{
 	width:144px;
 }
+
+form input.num{
+	border: solid yellow
+}
